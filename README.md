@@ -1,16 +1,3 @@
 # b_point
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+기획 (Figma) : [화면설계 보러가기☝🏻](https://www.figma.com/design/jIdKIPBWGv3Y4lWDtwOVOO/%EB%B9%85%ED%8F%AC%EC%9D%B8%ED%8A%B8?node-id=0-1&t=jzw5jx65MCMdSYmp-1)
